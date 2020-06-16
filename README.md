@@ -5,5 +5,5 @@
  
  3,python train_test.py
  
- 4,bert version will be added later
+ 4,latent variable and bert version will be added later once our article is fully published (these two are only tricks)
  
